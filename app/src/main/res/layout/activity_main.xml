@@ -15,6 +15,12 @@
         android:paddingTop="16dp"
         tools:context="id.sch.smktelkom_mlg.tugas01.xirpl3007.myapplication.MainActivity">
 
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/ic_logo" />
+
         <android.support.design.widget.TextInputLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
