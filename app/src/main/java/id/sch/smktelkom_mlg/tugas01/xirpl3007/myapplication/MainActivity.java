@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
             hasil = rb.getText().toString();
         }
         if (hasil == null) {
-            tvHasil.setText("Pilihlah kelas kerata api!");
+            tvHasil.setText("Pilihlah kelas kereta api!");
         }
 
 
