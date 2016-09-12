@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="KA">
+        <item>KRD Kertosono</item>
+        <item>PANDANWANGI</item>
+        <item>PENATARAN</item>
+        <item>PROBOWANGI</item>
+        <item>RAPIH DHOHO</item>
+    </string-array>
+</resources>
